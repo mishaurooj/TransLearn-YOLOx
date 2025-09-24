@@ -18,7 +18,8 @@ Key results include:
 - mAP@0.5: **95.3%**
 - F1-score: **92.33%**
 
-Dataset and code are publicly available: [GitHub Repository](https://github.com/ZeeshanKaleem/YOLOV5-Large-vs-YOLOV7.git)
+Code is also publicly available: [GitHub Repository](https://github.com/ZeeshanKaleem/YOLOV5-Large-vs-YOLOV7.git)
+Dataset publicly available here: [Roboflow](https://universe.roboflow.com/noor-djz41/multiuav)
 
 ---
 
